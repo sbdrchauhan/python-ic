@@ -1,2 +1,3 @@
 # python-ic
-A complete python building up repo
+
+An ultimate-guide to python. I will keep updating this repo...
