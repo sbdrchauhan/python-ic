@@ -25,9 +25,11 @@ From the beginning, we document, we check the progress and see if program does w
 **Reading Files** (4 ways):
 
 <u>To open a File</u>
+
 `file_object = open(filename, mode)`
 
 <u>mode</u>
+
 `'r'` to read
 `'w'` to write
 `'a'` to append
