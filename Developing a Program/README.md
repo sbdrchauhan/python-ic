@@ -1,6 +1,6 @@
 I am thankful to [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program/home/welcome) for the following knowledge.
 
-**Developing a Program**: *From start to finish*
+**A. Developing a Program**: *From start to finish*
 
 Given: An assignment grades of a class of students. It has 3 lines header, space and then student Id followed by grade.
 We are given 'Assignment 1 grades.txt' file that contains our data.
@@ -20,7 +20,7 @@ From the beginning, we document, we check the progress and see if program does w
 
 
 
-**Handling Files**:
+**B. Handling Files**:
 
 **Reading Files** (4 ways):
 
