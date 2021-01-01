@@ -4,14 +4,14 @@ I am thankful to [Learn to Program: The Fundamentals](https://www.coursera.org/l
 
 Given: An assignment grades of a class of students. It has 3 lines header, space and then student Id followed by grade.
 We are given 'Assignment 1 grades.txt' file that contains our data.
-We build: 'a1_hist.txt'
+We build: 'a1_hist.txt' file.
 
-We want: We want to see the distribution of the grades.
+We want: To see the distribution of the grades.
 
 To do:
 
 - Read the grades into a list
-- Count teh grades per range
+- Count the grades per range (our defined range)
 - Write the histogram to the file
 
 We make the main program as `grade_histogram.py` while all the functions required to do it in `grade.py` file.
